@@ -55,11 +55,11 @@ o	Hiding all foreign keys from Report view prevent to use them for filtering
 ![Calendar](https://github.com/user-attachments/assets/2ce92f92-176b-45db-92da-0e43ed7919e6)
 ![Total Sales](https://github.com/user-attachments/assets/8e2aa6c9-2ed9-4b22-8978-a64fd1587ce9)
 ![Top 3 Products by Sales](https://github.com/user-attachments/assets/9a32440a-3e22-4dbe-b146-652db4034a7d)
-![Sales % of Countries](https://github.com/user-attachments/assets/43d54c87-b505-43ec-8f8c-17eecfe7b04b)
+![Sales % of Countries](https://github.com/user-attachments/assets/9150898a-66f0-401d-a2ba-2d4cf7e5834f)
 ![Sales % of States](https://github.com/user-attachments/assets/f0cecb47-28f0-4671-b843-e35f557fc57c)
-![Price adjustment](https://github.com/user-attachments/assets/863d1923-d738-4f01-b50a-095a904fbcd8)
+![Price adjustment](https://github.com/user-attachments/assets/a367b0e3-f816-4c35-b8e8-c3e7b44c46f2)
 ![Moving AVG profit](https://github.com/user-attachments/assets/defba4d9-8cb0-4da1-88fa-69d71f88261a)
-![AVG delivery day](https://github.com/user-attachments/assets/98b75cee-c766-4564-a089-790c60e4b66f)
+![AVG delivery day](https://github.com/user-attachments/assets/6b17a256-3f93-448d-85ef-7b3d403050fe)
 -	Beyond common visualization methods some practical solution was applied too.
 -	Sales, Profit and Order measures were used as field parameters to create the Metric Selection table, which was the input of a line chart. In this way users easily can change between measures above on the same chart, keeping the dashboard clear without overcrowding.
 -	Decomposition tree ensures parallelly a global picture and a detailed insight into sales of product categories, subcategories and individual products.
